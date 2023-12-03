@@ -1,6 +1,6 @@
 # About
 This is my personal portfolio used to highlight what I have created and my skills as a person. 
-I don't actually know how to make websites, it's very unstable so please report any issues and improvements to me in the [issues](/issues) tab. 
+I don't actually know how to make websites, it's very unstable so please report any issues and improvements to me in the [issues tab](https://github.com/willbert03/Portfolio/issues). 
 # About this website
 This website (source code [here](https://github.com/zhengfangxing/zhengfangxing.github.io)) uses these sources:
 
