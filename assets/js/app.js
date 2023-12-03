@@ -90,8 +90,8 @@ particlesJS.load('particles-js', 'particles.json', function() {
                 mode: "bubble",
               },
               onclick: {
-                enable: false,
-                mode: "repulse",
+                enable: true,
+                mode: "push",
               },
               resize: true,
             },
@@ -110,7 +110,7 @@ particlesJS.load('particles-js', 'particles.json', function() {
                 speed: 3,
               },
               repulse: {
-                distance: 400,
+                distance: 20,
                 duration: 0.4,
               },
               push: {
